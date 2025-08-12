@@ -1,81 +1,88 @@
-Welcome to My GitHub Profile! 👋
-Hello there! I'm ilyazio35, and I'm thrilled to have you here. Below, you'll find some details about me, my interests, and how you can connect or collaborate with me. Let's dive in!
+# 👋 Welcome to My GitHub Profile!
 
-👋 About Me
+Hello there! I'm **ilyazio35**, and I'm thrilled to have you here. Below, you'll find some details about me, my interests, and how we can connect or collaborate. Let's dive in! 🚀
 
-I'm a passionate individual with a deep interest in programming and technology. I love exploring new concepts, solving problems, and building cool projects. Currently, I'm pursuing my journey in Computer Science, where I'm constantly learning and growing.
+---
 
-👀 Interests
+## 👋 About Me
 
-Programming: I enjoy coding in various languages and frameworks. Whether it's building web applications, diving into algorithms, or exploring new technologies, I'm always up for a challenge.
-Learning: I'm a lifelong learner, always eager to expand my knowledge and skills in the field of Computer Science.
-Collaboration: I believe in the power of teamwork and open-source contributions. Collaborating with others on exciting projects is something I truly value.
+I'm a passionate individual with a deep love for programming and technology. I enjoy exploring new concepts, solving problems, and building cool projects. Currently, I'm pursuing my journey in **Computer Science**, constantly learning and growing.
 
-🌱 Currently Learning
+---
 
-I'm currently focused on deepening my understanding of Computer Science fundamentals, including:
+## 👀 Interests
 
-Data Structures and Algorithms
-Software Development
-Web Development (Frontend & Backend)
-Machine Learning and AI (beginner level)
-Database Management
-I'm also exploring new programming languages and tools to broaden my skill set.
+- **Programming:** Building web applications, tackling algorithms, exploring new languages & frameworks — always up for a challenge!  
+- **Learning:** Lifelong learner, eager to expand my knowledge in Computer Science.  
+- **Collaboration:** Believe in the power of teamwork and open-source. I love collaborating on exciting projects.
 
-💞️ Open to Collaboration
+---
 
-I'm always open to collaborating on coding projects! If you have an interesting idea or need a helping hand, feel free to reach out. I'm particularly interested in:
+## 🌱 Currently Learning
 
-Open-source projects
-Web development (React, Node.js, etc.)
-Python-based projects
-Machine Learning or AI initiatives
-Hackathons and coding challenges
-Let's create something amazing together! 🚀
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-📫 How to Reach Me
+- Data Structures and Algorithms (**C++**)  
+- Software Development  
+- Web Development (**Backend**)  
+- Flask and Python  
+- Database Management  
 
-Feel free to connect with me or drop a message. I'd love to hear from you! Here's how you can reach me:
+---
 
-Email: imowlid12@gmail.com
-GitHub: @ilyazio35
-Whether it's a question, a collaboration proposal, or just a friendly chat, I'm always happy to connect.
+## 💞️ Open to Collaboration
 
-🛠️ Skills and Tools
+I'm open to collaborating on projects like:  
+- Open-source initiatives  
+- Python-based projects  
+- Flask web app development  
+- Hackathons and coding challenges  
 
-Here are some of the skills and tools I'm familiar with:
+**Let’s create something amazing together!** ✨
 
-Programming Languages:
+---
 
-Python
-JavaScript
-Java
-C/C++
-HTML/CSS
+## 📫 How to Reach Me
 
-❇️upcoming skills
+[![Email](https://img.shields.io/badge/Email-imowlid12@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imowlid12@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-@ilyazio35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilyazio35)
 
-Frameworks & Libraries:
+Whether it’s questions, ideas, or just a friendly chat — I’m always happy to connect!
 
-React.js
-Node.js
-Express.js
-Bootstrap
-Tools & Platforms:
+---
 
-Git & GitHub
-VS Code
-Docker
-Linux
-Databases:
+## 🛠️ Skills & Tools
 
-MySQL
-MongoDB
+### Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-🌟 Let's Connect!
+### Frameworks & Libraries  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) (upcoming)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) (upcoming)
 
-I'm always excited to meet new people, share ideas, and collaborate on innovative projects. If you're interested in working together or just want to say hi, don't hesitate to reach out. Let's build something awesome! 😊
+### Tools & Platforms  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Thank you for visiting my profile. Have a great day, and happy coding! 🎉
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-📝 Note: This README is a work in progress and will be updated regularly as I continue to learn and grow. Stay tuned for more updates!
+---
+
+## 🌟 Let's Connect!
+
+I'm always excited to meet new people, share ideas, and build cool stuff. If you want to collaborate or just say hi, don’t hesitate to reach out.  
+
+**Happy coding!** 🎉
+
+---
+
+📝 _This README is a work in progress and will be updated regularly as I learn and grow. Stay tuned!_
